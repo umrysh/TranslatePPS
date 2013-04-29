@@ -13,7 +13,7 @@ Registering your application
 
 In order to use the Bing translate API you must first register your application and update the
 `translator = Translator('<Your Client ID>', '<Your Client Secret>')`
-line in `livecc.py`
+line in `TranslatePPS.py`
 
 To register your application with Azure DataMarket, visit https://datamarket.azure.com/developer/applications/. 
 
@@ -35,6 +35,7 @@ Credit
 ------------
 
 [Microsoft-Translator-Python-API](https://github.com/openlabs/Microsoft-Translator-Python-API)
+
 NOTE: I had to modify the script to work with Python 3
 
 License
